@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25aa2d22-a604-465d-913b-386581cae020)# 📧 Constant Contact Integration for Salesforce
+# 📧 Constant Contact Integration for Salesforce
 ## 📊✨ Summary:
 This Salesforce integration enables seamless data flow between Salesforce and Constant Contact, allowing for automated event and event registration management. With this solution, users can synchronize event lists and registrant information directly from Salesforce to Constant Contact, maintaining an active connection. Automated token management ensures uninterrupted data updates.
 
