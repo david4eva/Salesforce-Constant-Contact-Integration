@@ -29,7 +29,7 @@ Watch the 5 minute video demo on how to use the integration
 **Video Timestamps**: 
 * 0:00 --> Storing the client id, client secret, access token and refresh token.
 * 0:00 --> Create the event record in Salesforce
-* 0:30 --> Verify event event list creation in Constant Contact.
+* 0:30 --> Verify event record creation in Constant Contact.
 * 1:00 --> Create the event registrantion record in Salesforce.
 * 1:30 --> Verify event registration record creation in Constant Contact.
 
