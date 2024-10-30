@@ -24,7 +24,7 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 4. **Custom Tabs**
 
 ## 📝  Usage
-**Testing the Integration**:
+**Testing the Integration**:  
 Watch the 5 minute video demo on how to use the integration  
 **Video Timestamps**:
 * 0:00 --> Storing the client id, client secret, access and refresh tokens.
