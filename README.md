@@ -35,7 +35,9 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 * **1:30**: Verify event registration record creation in Constant Contact.
 
 🧩 Additional Information
-Access Token Expiration: Tokens expire after 1,440 minutes; refresh logic is included to keep the integration active.
-Security: Uses Salesforce’s secure Named Credentials and OAuth 2.0 for safe API interactions.
-🤝 Contributing
+**Access Token Expiration:**   
+Tokens expire after 1,440 minutes; refresh logic is included to keep the integration active.
+**Security**:  
+Uses Salesforce’s secure Named Credentials and OAuth 2.0 for safe API interactions.
+🤝 **Contributing**  
 Contributions, issues, and feature requests are welcome! Feel free to check issues page if you would like to contribute.
