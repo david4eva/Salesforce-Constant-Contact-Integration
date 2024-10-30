@@ -26,7 +26,7 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 ## 📝  Usage
 **Testing the Integration**:
 Watch the 5 minute video demo on how to use the integration
-### **Video Timestamps**: 
+**Video Timestamps**: 
 * 0:00 --> Storing the client id, client secret, access and refresh tokens.
 * 0:00 --> Create the event record in Salesforce
 * 0:30 --> Verify event record creation in Constant Contact.
