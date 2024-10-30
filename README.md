@@ -25,7 +25,7 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 
 ## 📝  Usage
 **Testing the Integration**:  
-* Watch the 5 minute video demo on how to use the integration  
+* Watch the 5 minute video demo [Constant Contact Integration Suite for Salesforce Demo](#) on how to use the integration  
   
 **Video Timestamps**:
 * **0:00**: Storing the client id, client secret, access and refresh tokens.
