@@ -17,13 +17,13 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
    free developer org here: [Sign up for your Salesforce Developer Edition](https://developer.salesforce.com/signup). After successfully installing the package, all the included 
    metadata types.
    
-## 📦  Package Metadata Components
+## 📦 Package Metadata Components
 1. **Apex Classs**:
 2. **Apex Triggers**:
 3. **Custom Objects**:
 4. **Custom Tabs**
 
-## 📝  Usage
+## 📝 Usage
 **Testing the Integration**:  
 * Watch the 5 minute video demo [Constant Contact Integration Suite for Salesforce Demo](#) on how to use the integration  
   
@@ -34,8 +34,8 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 * **1:00**: Create the event registrantion record in Salesforce.
 * **1:30**: Verify event registration record creation in Constant Contact.
 
-🧩 Additional Information
-**Access Token Expiration:**   
+🧩 ## Additional Information
+**Access Token Expiration:**  
 Tokens expire after 1,440 minutes; refresh logic is included to keep the integration active.
 **Security**:  
 Uses Salesforce’s secure Named Credentials and OAuth 2.0 for safe API interactions.
