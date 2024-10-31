@@ -23,8 +23,7 @@ This Salesforce integration enables seamless data flow between Salesforce and Co
 3. **Custom Objects**:
 4. **Custom Tabs**
 
-## 📝 Usage
-**Testing the Integration**:  
+## 📝 Using the Integration
 * Watch the 5 minute video demo [Constant Contact Integration Suite for Salesforce Demo](#) on how to use the integration  
   
 🎥 **Video Timestamps**:
